@@ -57,6 +57,7 @@ python secure_login.py
 ---
 
 # Future Updates
+- Allow usernames to be case-sensitive to allow additional uniqueness
 - Add support for multiple admin accounts with different roles  
 - Implement password reset via security questions or tokens  
 - Export audit logs to a file (CSV/JSON) for external analysis  
