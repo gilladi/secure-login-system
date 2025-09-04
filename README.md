@@ -40,7 +40,7 @@ Here’s a quick overview of how the system works:
 
 # Setup
 1. Clone the repository:
-git clone https://github.com/yourusername/secure-login-system.git
+git clone https://github.com/gilladi/secure-login-system.git
 cd secure-login-system
 
 2. Create a virtual environment and activate it:
