@@ -44,9 +44,9 @@ git clone https://github.com/yourusername/secure-login-system.git
 cd secure-login-system
 
 2. Create a virtual environment and activate it:
-python -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
+- python -m venv venv
+- source venv/bin/activate   # macOS/Linux
+- venv\Scripts\activate      # Windows
 
 3. Install dependencies:
 pip install -r requirements.txt
